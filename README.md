@@ -1,11 +1,13 @@
-#GESTION DE STOCK
+#GESTION DE STOCK  
 
-Author: Laura Muneng
+Author: Laura Muneng  
 
-######################
-Crednetial Super Admin
-######################
+###################### <br/>                                                                                       
+Crednetial Super Admin<br/>    
+######################<br/>    
+
 email: admin@admin.com
+
 password: password
 
 database name: stock
